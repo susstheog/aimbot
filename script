@@ -66,7 +66,7 @@ CreditsLabel.BackgroundTransparency = 1
 CreditsLabel.Position = UDim2.new(0.428000088, 0, 0.893000005, 0)
 CreditsLabel.Size = UDim2.new(0, 43, 0, 15)
 CreditsLabel.Font = Enum.Font.Gotham
-CreditsLabel.Text = "sussware silent aim | golzy#5280"
+CreditsLabel.Text = "Celestial Silent Aim | yesok#3877"
 CreditsLabel.TextColor3 = Color3.new(0.576471, 0.576471, 0.576471)
 CreditsLabel.TextSize = 10
 
@@ -863,5 +863,4 @@ RunServ:BindToRenderStep("Get_Target",1,function()
 end)
 
 warn("Loaded!")
-{"mode":"full","isActive":false}
 {"mode":"full","isActive":false}
